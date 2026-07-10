@@ -11,3 +11,5 @@ Concepts Used:
 - Loops
 - Switch Case
 - User Input using Scanner
+
+Changes made by Rithik
